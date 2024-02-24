@@ -1,4 +1,14 @@
 {
   "name": "testownik",
-  "displayName": "testownik"
+  "displayName": "testownik",
+  "expo": {
+    "android": {
+      "package": "com.anonymous.testownik"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.testownik"
+    },
+    "name": "testownik",
+    "slug": "testownik"
+  }
 }
